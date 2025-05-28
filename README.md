@@ -1,6 +1,6 @@
 # Unleashing the Power of Reinforcement Learning for Trading
 ## Overview
-This project implements a reinforcement learning system for stock trading using technical indicators. I've retrained the model, debugged, and modified the original code (from a guided project tutorial provided by the IBM Cognitive Class AI platform) to create a functional trading agent that learns to make buy/sell decisions based on market conditions.
+This project implements a reinforcement learning system for stock trading using technical indicators. I've retrained the model, debugged, and modified the original code (**from a guided project tutorial provided by the IBM Cognitive Class AI platform**) to create a functional trading agent that learns to make buy/sell decisions based on market conditions.
 
 Key improvements made:
 - Fixed data loading issues with Yahoo Finance API
