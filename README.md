@@ -131,7 +131,7 @@ For a detailed walkthrough of the implementation, please see the Jupyter noteboo
 
 ---
 ## Project Attribution
-This chatbot was developed as part of a guided project tutorial provided by the IBM Cognitive Class AI platform. The project demonstrates the integration of Flask, LangChain, and Large Language Models (LLMs) to build an AI-powered assistant capable of analyzing and answering questions about PDF documents.
+This chatbot was developed as part of a guided project tutorial provided by the IBM Cognitive Class AI platform. 
 
 ---
 ## Copyright Statement
@@ -143,4 +143,3 @@ My contributions are limited to:
 - Performance optimizations specific to the runtime environment
 
 I assert copyright only over these specific remedial modifications. The majority of the codebase, including all original design patterns, proprietary methodologies, and core functionality remains exclusively owned by IBM Cognitive AI Platform. This notice does not transfer any ownership rights of the original IBM code.
-
