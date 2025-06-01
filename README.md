@@ -128,6 +128,7 @@ This project is for educational purposes only. The trading strategies implemente
 - Create a live trading interface with brokerage API integration
 
 For a detailed walkthrough of the implementation, please see the Jupyter notebook.
+
 ---
 ## Project Attribution
 This chatbot was developed as part of a guided project tutorial provided by the IBM Cognitive Class AI platform. The project demonstrates the integration of Flask, LangChain, and Large Language Models (LLMs) to build an AI-powered assistant capable of analyzing and answering questions about PDF documents.
